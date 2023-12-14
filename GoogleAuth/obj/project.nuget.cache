@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCc5oCcnu6b1HeOJVt9MskBZqKl5Oghl4smSVZ5mHXZLFNwtQ5t6L5m3YiWZB8O4LnBRKUooGTArrHME+3AihA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\111\\source\\repos\\GoogleAuth\\GoogleAuth\\GoogleAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\111\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.0\\microsoft.aspnetcore.authentication.google.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
